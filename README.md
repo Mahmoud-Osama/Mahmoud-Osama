@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analysis and Visualization 
 - 🌱 I’m currently learning Advanced PowerBI , Advanced SQL 
 - 💞️ I’m looking to collaborate on freelancing visualization projects using PowerBI
-- 📫 How to reach me Mhomoudusama@yahoo.com
+- 📫 How to reach me mhomoudusama@yahoo.com
 
 <!---
 Mahmoud-Osama/Mahmoud-Osama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
